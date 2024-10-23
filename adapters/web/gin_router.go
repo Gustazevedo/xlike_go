@@ -2,7 +2,7 @@ package web
 
 import (
     "github.com/gin-gonic/gin"
-    "github.com/gustazevedo/xlike_go/domain/service"
+    "github.com/Gustazevedo/xlike_go/tree/develop/domain/service"
     "net/http"
 )
 

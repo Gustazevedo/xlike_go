@@ -1,6 +1,6 @@
 package ports
 
-import "github.com/Gustazevedo/xlike_go/domain/model"
+import "github.com/Gustazevedo/xlike_go/tree/develop/domain/model"
 
 type UserRepository interface {
     SaveUser(user model.User) error

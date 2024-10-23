@@ -1,8 +1,8 @@
 package service
 
 import (
-    "github.com/gustazevedo/xlike_go/domain/model"
-    "github.com/gustazevedo/xlike_go/ports"
+    "github.com/Gustazevedo/xlike_go/tree/develop/domain/model"
+    "github.com/Gustazevedo/xlike_go/tree/develop/ports"
     "errors"
 )
 

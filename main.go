@@ -2,9 +2,9 @@ package main
 
 import (
     "github.com/gin-gonic/gin"
-    "github.com/gustazevedo/xlike_go/adapters/database"
-    "github.com/gustazevedo/xlike_go/adapters/web"
-    "github.com/gustazevedo/xlike_go/domain/service"
+    "github.com/Gustazevedo/xlike_go/tree/develop/adapters/database"
+    "github.com/Gustazevedo/xlike_go/tree/develop/adapters/web"
+    "github.com/Gustazevedo/xlike_go/tree/develop/domain/service"
     "log"
 )
 

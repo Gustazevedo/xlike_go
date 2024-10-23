@@ -2,8 +2,8 @@ package database
 
 import (
     "context"
-    "github.com/Gustazevedo/xlike_go/domain/model"
-    "github.com/Gustazevedo/xlike_go/ports"
+    "github.com/Gustazevedo/xlike_go/tree/develop/domain/model"
+    "github.com/Gustazevedo/xlike_go/tree/develop/ports"
     "github.com/jackc/pgx/v4/pgxpool"
 )
 
